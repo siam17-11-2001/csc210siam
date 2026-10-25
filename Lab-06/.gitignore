@@ -1,0 +1,8 @@
+# Generated binaries, docs, caches and dependencies
+**/out/
+**/docs/
+**/target/
+**/lib/*.jar
+**/tmp/
+*.class
+.DS_Store
